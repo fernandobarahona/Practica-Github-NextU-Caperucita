@@ -5,3 +5,6 @@ tiene que cruzar el bosque para hacerlo y en el camino se encuentra con un lobo.
 
 Despues de encontrase con el lobo el lobo le dice que vaya por otro lado. 
 Asi el lobo llego mas rapido a la casa de la abuelita. 
+
+Por esta razon al llegar caperucita a donde la abuelita (desde github) se encontro
+con el lobo
